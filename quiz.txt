@@ -1,0 +1,25 @@
+Software Requirements Engineering
+What is the output of the following code
+cout << "Hello World" ;
+option: Hello
+option: World
+option : Hello World
+option: None of the above
+
+What is the square of -2
+option : 4
+option: -4
+option: 2
+option: -2
+
+Pakistan came into being on 14 Aug 1947
+option : True
+option: False
+
+In C++, the size of a character variable is always 1 byte.
+option : True
+option: False
+
+Write 100 words essay on one of the following:
+1. Recent successes of Pakistan's cricket team
+2. Role/influence of ChatGPT in the teaching/learning process
